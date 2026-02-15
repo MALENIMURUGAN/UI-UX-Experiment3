@@ -25,5 +25,5 @@ To perform a Heuristic Evaluation of WhatsApp’s current interface and develop 
 <img width="588" height="1112" alt="image" src="https://github.com/user-attachments/assets/6da69116-a170-48f3-8afc-5f1115208d6b" />
 
 
-## Result:
+## Result: 
 The experiment concluded that the Version B Redesign significantly improved the usability of the app. By moving primary navigation to the bottom of the screen, the app became more ergonomic for one-handed use. The A/B test confirmed that users could navigate between their "Chats" and "Status" 10% faster, and overall user satisfaction increased by 12%, proving that a minimalist and reachable interface directly correlates with positive user behavior.
